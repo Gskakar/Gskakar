@@ -1,8 +1,13 @@
 👋 Hi, I’m @Gskakar
+
 👀 I’m interested in gaining value and building meaningful projects.
+
 🌱 I’m currently learning: Programming and Data skills.
+
 📫 Reach me: via email on gskakar@ualberta.ca
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: My time management sucks!
 
 <!---
