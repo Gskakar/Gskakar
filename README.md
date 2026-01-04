@@ -1,6 +1,6 @@
 - Hi, I’m Gurkeerat Kakar
 - I’m interested in gaining value and building meaningful projects.
-- I’m currently learning: Programming and Data skills.
+- I’m currently learning: Programming on Data Science skills.
 - Reach me: via email on gskakar@ualberta.ca
 - Pronouns: He/Him
 - Fun fact: My time management sucks!
